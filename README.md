@@ -1,9 +1,6 @@
 - 👋 Hi, I’m [@piusalfred](https://github.com/piusalfred) a backend engineer
-- 👀 I’m interested in Distributed Systems, AI, ML, Fintech and IoT.
-- 🚀 Golang.
-- 🚀 I’m currently learning DevOps
 - 💞️ I love open source.
-- 👨‍💻 I love building cool stuffs.
+- 👨‍💻 Software Engineer (Backend)
 - 🇹🇿 Currently in Dar es Salaam, Tanzania.
 
 twitter [@thepiusalfred](https://twitter.com/thepiusalfred)
