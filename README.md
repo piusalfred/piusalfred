@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@piusalfred](https://github.com/piusalfred) a backend engineer
+- 👋 Hi, This is [@piusalfred](https://github.com/piusalfred)
 - 💞️ I love open source.
 - 👨‍💻 Software Engineer (Backend)
 - 🇹🇿 Currently in Dar es Salaam, Tanzania.
