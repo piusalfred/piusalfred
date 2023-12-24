@@ -1,7 +1,7 @@
 - 👋 Hi, This is [@piusalfred](https://github.com/piusalfred)
 - 💞️ I love open source.
 - 👨‍💻 Software Engineer (Backend)
-- 🇹🇿 Currently in Dar es Salaam, Tanzania.
+- 🇹🇿🇩🇪 Tanzanian Currently in Berlin, Germany
 
 twitter [@thepiusalfred](https://twitter.com/thepiusalfred)
 
